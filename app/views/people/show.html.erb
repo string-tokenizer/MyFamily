@@ -1,0 +1,52 @@
+<section class="hero">
+  <p class="eyebrow">Family Heritage Explorer</p>
+  <h1>Family Tree</h1>
+  <p class="lead">Click a person or the + button to open their family. Use "Profile" to see their details.</p>
+</section>
+
+<% initials = @person.name.split.first(2).map { _1[0] }.join %>
+
+<%= link_to "← Back to directory", root_path, class: "back" %>
+
+<section class="profile-header">
+  <div class="avatar avatar-xl <%= @person.gender %>"><%= initials %></div>
+  <div>
+    <p class="eyebrow"><%= @person.in_law? ? "Joined the family by marriage" : "Family line" %></p>
+    <h1><%= @person.name %></h1>
+ <p class="lead"><%= [@person.profession, @person.address].compact_blank.join(" · ").presence || "No details recorded yet" %></p>
+<span class="badge">
+  <% if @person.dob.present? || @person.death_date.present? %>
+    <%= @person.dob&.first(4) || "?" %> – <%= @person.alive? ? "present" : (@person.death_date&.first(4) || "†") %>
+  <% else %>
+    <%= @person.alive? ? "Living" : "Deceased" %>
+  <% end %>
+</span>
+  </div>
+</section>
+
+<section class="panel">
+  <h2>Details</h2>
+  <dl class="profile">
+    <dt>Born</dt><dd><%= @person.dob %></dd>
+ <dt>Died</dt><dd><%= @person.alive? ? "—" : (@person.death_date.presence || "Deceased") %></dd>
+    <dt>Blood group</dt><dd><%= @person.blood_group %></dd>
+  </dl>
+</section>
+
+<div class="relations">
+  <% { "Parents" => @person.parents, "Spouse(s)" => @person.spouses,
+       "Children" => @person.children, "Siblings" => @person.siblings }.each do |title, people| %>
+    <section class="panel">
+      <h2><%= title %></h2>
+      <% if people.any? %>
+        <div class="chips">
+          <% people.each do |p| %>
+            <%= link_to p.name, person_path(p.id), class: "chip #{p.gender}" %>
+          <% end %>
+        </div>
+      <% else %>
+        <p class="muted">None recorded</p>
+      <% end %>
+    </section>
+  <% end %>
+</div>

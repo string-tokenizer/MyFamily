@@ -1,0 +1,1015 @@
+{
+  "title": "Hj Salleh Family Tree",
+  "people": [
+    {
+      "id": "p1",
+      "name": "Salleh Bin Erosmito",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0001",
+      "address": "No. 24, Jalan Harmoni, Taman Sri Makmur, Perak, Malaysia",
+      "dob": "1944-04-21",
+      "dateOfDeath": "2010-08-10",
+      "profession": "Mechanic",
+      "bloodGroup": "O+",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p2",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": true
+    },
+    {
+      "id": "p2",
+      "name": "Mesinam Binti Noor",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0002",
+      "address": "No. 85, Jalan Kenanga, Kampung Bukit Indah, Perak, Malaysia",
+      "dob": "1932-05-23",
+      "dateOfDeath": "1995-03-14",
+      "profession": "Administrative officer",
+      "bloodGroup": "AB-",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p1",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": true
+    },
+    {
+      "id": "p3",
+      "name": "Saerah Salleh",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0003",
+      "address": "No. 32, Jalan Melur, Taman Kenanga, Perak, Malaysia",
+      "dob": "1966-02-25",
+      "dateOfDeath": null,
+      "profession": "Chef",
+      "bloodGroup": "AB+",
+      "fatherId": "p1",
+      "motherId": "p2",
+      "spouses": [
+        {
+          "id": "p4",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p4",
+      "name": "Nasir",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0004",
+      "address": "No. 26, Jalan Kenanga, Taman Harmoni, Perak, Malaysia",
+      "dob": "1954-08-13",
+      "dateOfDeath": null,
+      "profession": "Teacher",
+      "bloodGroup": "B+",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p3",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p5",
+      "name": "Zaiton Salleh",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0005",
+      "address": "No. 84, Jalan Cempaka, Kampung Sentosa, Perak, Malaysia",
+      "dob": "1957-02-07",
+      "dateOfDeath": null,
+      "profession": "Designer",
+      "bloodGroup": "B+",
+      "fatherId": "p1",
+      "motherId": "p2",
+      "spouses": [
+        {
+          "id": "p6",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p6",
+      "name": "Othman",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0006",
+      "address": "No. 55, Jalan Bakti, Taman Sri Makmur, Perak, Malaysia",
+      "dob": "1952-09-28",
+      "dateOfDeath": null,
+      "profession": "Entrepreneur",
+      "bloodGroup": "O-",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p5",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p7",
+      "name": "Aminah Salleh",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0007",
+      "address": "No. 2, Jalan Cempaka, Kampung Seri Damai, Perak, Malaysia",
+      "dob": "1960-07-25",
+      "dateOfDeath": null,
+      "profession": "Entrepreneur",
+      "bloodGroup": "AB+",
+      "fatherId": "p1",
+      "motherId": "p2",
+      "spouses": [
+        {
+          "id": "p8",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p8",
+      "name": "Sulaiman Mansor",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0008",
+      "address": "No. 43, Jalan Kenanga, Taman Sri Makmur, Perak, Malaysia",
+      "dob": "1968-07-15",
+      "dateOfDeath": null,
+      "profession": "Electrician",
+      "bloodGroup": "AB+",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p7",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p9",
+      "name": "Zoleha Salleh",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0009",
+      "address": "No. 90, Jalan Bakti, Taman Harmoni, Perak, Malaysia",
+      "dob": "1953-11-12",
+      "dateOfDeath": null,
+      "profession": "Accountant",
+      "bloodGroup": "AB-",
+      "fatherId": "p1",
+      "motherId": "p2",
+      "spouses": [
+        {
+          "id": "p10",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p10",
+      "name": "Ghafar Abu Bakar",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0010",
+      "address": "No. 56, Jalan Bakti, Kampung Sejahtera, Perak, Malaysia",
+      "dob": "1956-08-16",
+      "dateOfDeath": null,
+      "profession": "Civil engineer",
+      "bloodGroup": "O-",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p9",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p11",
+      "name": "Azman Salleh",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0011",
+      "address": "No. 2, Jalan Harmoni, Kampung Sejahtera, Perak, Malaysia",
+      "dob": "1964-05-06",
+      "dateOfDeath": null,
+      "profession": "Small business owner",
+      "bloodGroup": "O-",
+      "fatherId": "p1",
+      "motherId": "p2",
+      "spouses": [
+        {
+          "id": "p12",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p12",
+      "name": "Yanti Miskon",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0012",
+      "address": "No. 20, Jalan Mawar, Taman Sri Makmur, Perak, Malaysia",
+      "dob": "1956-06-11",
+      "dateOfDeath": null,
+      "profession": "Small business owner",
+      "bloodGroup": "O+",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p11",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p13",
+      "name": "Norlia Salleh",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0013",
+      "address": "No. 17, Jalan Kenanga, Taman Sri Makmur, Perak, Malaysia",
+      "dob": "1965-12-28",
+      "dateOfDeath": null,
+      "profession": "Accountant",
+      "bloodGroup": "A+",
+      "fatherId": "p1",
+      "motherId": "p2",
+      "spouses": [
+        {
+          "id": "p14",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p14",
+      "name": "Nazri Jimat",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0014",
+      "address": "No. 86, Jalan Harmoni, Taman Harmoni, Perak, Malaysia",
+      "dob": "1966-07-12",
+      "dateOfDeath": null,
+      "profession": "Administrative officer",
+      "bloodGroup": "B+",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p13",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p15",
+      "name": "Mohd Zaki Hilmi Salleh",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0015",
+      "address": "No. 26, Jalan Kenanga, Taman Harmoni, Perak, Malaysia",
+      "dob": "1951-01-26",
+      "dateOfDeath": null,
+      "profession": "Teacher",
+      "bloodGroup": "AB-",
+      "fatherId": "p1",
+      "motherId": "p2",
+      "spouses": [
+        {
+          "id": "p16",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p16",
+      "name": "Tunai Ospita Jaelan",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0016",
+      "address": "No. 59, Jalan Harmoni, Taman Harmoni, Perak, Malaysia",
+      "dob": "1965-07-21",
+      "dateOfDeath": null,
+      "profession": "Customer service officer",
+      "bloodGroup": "AB+",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p15",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p17",
+      "name": "Faizal Nasir",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0017",
+      "address": "No. 37, Jalan Bakti, Kampung Sentosa, Perak, Malaysia",
+      "dob": "1976-03-13",
+      "dateOfDeath": null,
+      "profession": "Teacher",
+      "bloodGroup": "AB-",
+      "fatherId": "p4",
+      "motherId": "p3",
+      "spouses": [
+        {
+          "id": "p18",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p18",
+      "name": "Aida Yaakob",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0018",
+      "address": "No. 64, Jalan Kenanga, Taman Mutiara, Perak, Malaysia",
+      "dob": "1970-11-01",
+      "dateOfDeath": null,
+      "profession": "Chef",
+      "bloodGroup": "A+",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p17",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p19",
+      "name": "Fazlina Nasir",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0019",
+      "address": "No. 92, Jalan Mawar, Taman Mutiara, Perak, Malaysia",
+      "dob": "1972-06-25",
+      "dateOfDeath": null,
+      "profession": "Teacher",
+      "bloodGroup": "AB+",
+      "fatherId": "p4",
+      "motherId": "p3",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p20",
+      "name": "Faradila Nasir",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0020",
+      "address": "No. 1, Jalan Bakti, Taman Sri Makmur, Perak, Malaysia",
+      "dob": "1984-02-07",
+      "dateOfDeath": null,
+      "profession": "Small business owner",
+      "bloodGroup": "B+",
+      "fatherId": "p4",
+      "motherId": "p3",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p21",
+      "name": "Amir Nasir",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0021",
+      "address": "No. 15, Jalan Harmoni, Taman Kenanga, Perak, Malaysia",
+      "dob": "1984-09-26",
+      "dateOfDeath": null,
+      "profession": "Entrepreneur",
+      "bloodGroup": "B-",
+      "fatherId": "p4",
+      "motherId": "p3",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p22",
+      "name": "Haikal Nasir",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0022",
+      "address": "No. 93, Jalan Melur, Kampung Seri Damai, Perak, Malaysia",
+      "dob": "1973-11-20",
+      "dateOfDeath": null,
+      "profession": "Accountant",
+      "bloodGroup": "O-",
+      "fatherId": "p4",
+      "motherId": "p3",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p23",
+      "name": "Hanafi",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0023",
+      "address": "No. 64, Jalan Melur, Kampung Bukit Indah, Perak, Malaysia",
+      "dob": "1974-05-19",
+      "dateOfDeath": null,
+      "profession": "Lecturer",
+      "bloodGroup": "B-",
+      "fatherId": "p6",
+      "motherId": "p5",
+      "spouses": [
+        {
+          "id": "p24",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p24",
+      "name": "Alia",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0024",
+      "address": "No. 36, Jalan Harmoni, Kampung Bukit Indah, Perak, Malaysia",
+      "dob": "1992-12-10",
+      "dateOfDeath": null,
+      "profession": "Customer service officer",
+      "bloodGroup": "O+",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p23",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p25",
+      "name": "Syafiqah",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0025",
+      "address": "No. 22, Jalan Melur, Kampung Sentosa, Perak, Malaysia",
+      "dob": "1990-04-06",
+      "dateOfDeath": null,
+      "profession": "Entrepreneur",
+      "bloodGroup": "O-",
+      "fatherId": "p6",
+      "motherId": "p5",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p26",
+      "name": "Sakinah",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0026",
+      "address": "No. 41, Jalan Mawar, Kampung Seri Damai, Perak, Malaysia",
+      "dob": "1990-01-23",
+      "dateOfDeath": null,
+      "profession": "Chef",
+      "bloodGroup": "A+",
+      "fatherId": "p6",
+      "motherId": "p5",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p27",
+      "name": "Fazrul Sulaiman",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0027",
+      "address": "No. 8, Jalan Melur, Kampung Seri Damai, Perak, Malaysia",
+      "dob": "1975-09-28",
+      "dateOfDeath": null,
+      "profession": "Retired farmer",
+      "bloodGroup": "AB+",
+      "fatherId": "p8",
+      "motherId": "p7",
+      "spouses": [
+        {
+          "id": "p28",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p28",
+      "name": "Safikah Sabni",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0028",
+      "address": "No. 50, Jalan Mawar, Kampung Seri Damai, Perak, Malaysia",
+      "dob": "1992-11-06",
+      "dateOfDeath": null,
+      "profession": "Accountant",
+      "bloodGroup": "B-",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p27",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p29",
+      "name": "Nurul Sulaiman",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0029",
+      "address": "No. 15, Jalan Bakti, Taman Mutiara, Perak, Malaysia",
+      "dob": "1986-02-19",
+      "dateOfDeath": null,
+      "profession": "Retired homemaker",
+      "bloodGroup": "O+",
+      "fatherId": "p8",
+      "motherId": "p7",
+      "spouses": [
+        {
+          "id": "p30",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p30",
+      "name": "Khairul Anuar",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0030",
+      "address": "No. 13, Jalan Mawar, Kampung Seri Damai, Perak, Malaysia",
+      "dob": "1971-04-14",
+      "dateOfDeath": null,
+      "profession": "Mechanic",
+      "bloodGroup": "A-",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p29",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p31",
+      "name": "Fakrul Sulaiman",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0031",
+      "address": "No. 57, Jalan Mawar, Kampung Sejahtera, Perak, Malaysia",
+      "dob": "1974-11-02",
+      "dateOfDeath": null,
+      "profession": "Entrepreneur",
+      "bloodGroup": "O+",
+      "fatherId": "p8",
+      "motherId": "p7",
+      "spouses": [
+        {
+          "id": "p32",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p32",
+      "name": "Erma Azni",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0032",
+      "address": "No. 86, Jalan Bakti, Kampung Bukit Indah, Perak, Malaysia",
+      "dob": "1988-09-25",
+      "dateOfDeath": null,
+      "profession": "Teacher",
+      "bloodGroup": "A-",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p31",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p33",
+      "name": "Nadzirah Sulaiman",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0033",
+      "address": "No. 74, Jalan Melur, Kampung Bukit Indah, Perak, Malaysia",
+      "dob": "1994-05-10",
+      "dateOfDeath": null,
+      "profession": "Designer",
+      "bloodGroup": "B-",
+      "fatherId": "p8",
+      "motherId": "p7",
+      "spouses": [
+        {
+          "id": "p34",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p34",
+      "name": "Faez Nahrawi",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0034",
+      "address": "No. 72, Jalan Harmoni, Kampung Seri Damai, Perak, Malaysia",
+      "dob": "1998-12-15",
+      "dateOfDeath": null,
+      "profession": "Administrative officer",
+      "bloodGroup": "O+",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p33",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p35",
+      "name": "Siti Hanisah Sulaiman",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0035",
+      "address": "No. 30, Jalan Cempaka, Kampung Sentosa, Perak, Malaysia",
+      "dob": "1994-09-15",
+      "dateOfDeath": null,
+      "profession": "Entrepreneur",
+      "bloodGroup": "B+",
+      "fatherId": "p8",
+      "motherId": "p7",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p36",
+      "name": "Aisyah Sulaiman",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0036",
+      "address": "No. 76, Jalan Harmoni, Taman Harmoni, Perak, Malaysia",
+      "dob": "1978-02-11",
+      "dateOfDeath": null,
+      "profession": "Administrative officer",
+      "bloodGroup": "O+",
+      "fatherId": "p8",
+      "motherId": "p7",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p37",
+      "name": "Nazree Ghafar",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0037",
+      "address": "No. 51, Jalan Bakti, Taman Mutiara, Perak, Malaysia",
+      "dob": "1985-08-28",
+      "dateOfDeath": "2026-07-20",
+      "profession": "Small business owner",
+      "bloodGroup": "AB-",
+      "fatherId": "p10",
+      "motherId": "p9",
+      "spouses": [
+        {
+          "id": "p38",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": true
+    },
+    {
+      "id": "p38",
+      "name": "Ika",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0038",
+      "address": "No. 56, Jalan Bakti, Kampung Seri Damai, Perak, Malaysia",
+      "dob": "1997-02-18",
+      "dateOfDeath": null,
+      "profession": "Small business owner",
+      "bloodGroup": "AB+",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p37",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p39",
+      "name": "Amirul Ghafar",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0039",
+      "address": "No. 8, Jalan Harmoni, Kampung Seri Damai, Perak, Malaysia",
+      "dob": "1983-03-06",
+      "dateOfDeath": null,
+      "profession": "Driver",
+      "bloodGroup": "A-",
+      "fatherId": "p10",
+      "motherId": "p9",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p40",
+      "name": "Hakim Ghafar",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0040",
+      "address": "No. 47, Jalan Cempaka, Taman Kenanga, Perak, Malaysia",
+      "dob": "1995-10-27",
+      "dateOfDeath": null,
+      "profession": "Lecturer",
+      "bloodGroup": "O-",
+      "fatherId": "p10",
+      "motherId": "p9",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p41",
+      "name": "Afiq Ghafar",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0041",
+      "address": "No. 32, Jalan Cempaka, Taman Kenanga, Perak, Malaysia",
+      "dob": "1972-12-08",
+      "dateOfDeath": null,
+      "profession": "Accountant",
+      "bloodGroup": "B-",
+      "fatherId": "p10",
+      "motherId": "p9",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p42",
+      "name": "Najib Azman",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0042",
+      "address": "No. 99, Jalan Harmoni, Taman Kenanga, Perak, Malaysia",
+      "dob": "1987-09-18",
+      "dateOfDeath": null,
+      "profession": "Lecturer",
+      "bloodGroup": "B+",
+      "fatherId": "p11",
+      "motherId": "p12",
+      "spouses": [
+        {
+          "id": "p43",
+          "status": "married"
+        }
+      ],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p43",
+      "name": "Farra Izzati",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0043",
+      "address": "No. 81, Jalan Harmoni, Kampung Sejahtera, Perak, Malaysia",
+      "dob": "1995-03-06",
+      "dateOfDeath": null,
+      "profession": "Chef",
+      "bloodGroup": "B+",
+      "fatherId": null,
+      "motherId": null,
+      "spouses": [
+        {
+          "id": "p42",
+          "status": "married"
+        }
+      ],
+      "isInLaw": true,
+      "isDeceased": false
+    },
+    {
+      "id": "p44",
+      "name": "Nabilah Azman",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0044",
+      "address": "No. 70, Jalan Bakti, Taman Harmoni, Perak, Malaysia",
+      "dob": "1997-09-26",
+      "dateOfDeath": null,
+      "profession": "Chef",
+      "bloodGroup": "B+",
+      "fatherId": "p11",
+      "motherId": "p12",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p45",
+      "name": "Aqilah Azman",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0045",
+      "address": "No. 89, Jalan Cempaka, Kampung Bukit Indah, Perak, Malaysia",
+      "dob": "2017-08-08",
+      "dateOfDeath": null,
+      "profession": "Chef",
+      "bloodGroup": "AB-",
+      "fatherId": "p11",
+      "motherId": "p12",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p46",
+      "name": "Akmal Azman",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0046",
+      "address": "No. 15, Jalan Kenanga, Taman Kenanga, Perak, Malaysia",
+      "dob": "2017-04-18",
+      "dateOfDeath": null,
+      "profession": "Entrepreneur",
+      "bloodGroup": "A-",
+      "fatherId": "p11",
+      "motherId": "p12",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p47",
+      "name": "Uzma",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0047",
+      "address": "No. 82, Jalan Bakti, Taman Sri Makmur, Perak, Malaysia",
+      "dob": "2002-12-13",
+      "dateOfDeath": null,
+      "profession": "Lecturer",
+      "bloodGroup": "B+",
+      "fatherId": "p14",
+      "motherId": "p13",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p48",
+      "name": "Irdina Zaki Hilmi",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0048",
+      "address": "No. 57, Jalan Mawar, Kampung Sejahtera, Perak, Malaysia",
+      "dob": "2002-05-18",
+      "dateOfDeath": null,
+      "profession": "Lecturer",
+      "bloodGroup": "O-",
+      "fatherId": "p15",
+      "motherId": "p16",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p49",
+      "name": "Alia Zaki Hilmi",
+      "gender": "female",
+      "photo": null,
+      "phone": "+60-11-0000-0049",
+      "address": "No. 64, Jalan Kenanga, Kampung Sejahtera, Perak, Malaysia",
+      "dob": "2009-11-11",
+      "dateOfDeath": null,
+      "profession": "Administrative officer",
+      "bloodGroup": "B-",
+      "fatherId": "p15",
+      "motherId": "p16",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    },
+    {
+      "id": "p50",
+      "name": "Raiyan Zaki Hilmi",
+      "gender": "male",
+      "photo": null,
+      "phone": "+60-11-0000-0050",
+      "address": "No. 86, Jalan Cempaka, Kampung Seri Damai, Perak, Malaysia",
+      "dob": "1997-01-10",
+      "dateOfDeath": null,
+      "profession": "Mechanic",
+      "bloodGroup": "A-",
+      "fatherId": "p15",
+      "motherId": "p16",
+      "spouses": [],
+      "isInLaw": false,
+      "isDeceased": false
+    }
+  ]
+}

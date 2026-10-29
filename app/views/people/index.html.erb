@@ -1,0 +1,26 @@
+<section class="hero">
+  <p class="eyebrow">Family Heritage Explorer</p>
+  <h1><%= Person.title %></h1>
+  <p class="lead">Browse every member, filter by place or profession, and follow the family line.</p>
+</section>
+
+<section data-controller="people-list"
+         data-people-list-url-value="<%= people_path(format: :json) %>">
+  <div class="filters">
+    <input type="search" placeholder="Search by name…"
+           data-people-list-target="search" data-action="input->people-list#render">
+    <select data-people-list-target="address" data-action="change->people-list#render">
+      <option value="">All places</option>
+    </select>
+    <select data-people-list-target="profession" data-action="change->people-list#render">
+      <option value="">All professions</option>
+    </select>
+    <select data-people-list-target="status" data-action="change->people-list#render">
+      <option value="">Living &amp; deceased</option>
+      <option value="alive">Living</option>
+      <option value="deceased">Deceased</option>
+    </select>
+  </div>
+  <p class="count" data-people-list-target="count"></p>
+  <div class="cards" data-people-list-target="list"></div>
+</section>

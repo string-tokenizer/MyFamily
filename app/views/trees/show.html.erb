@@ -1,0 +1,12 @@
+<div data-controller="tree" data-tree-url-value="<%= people_path(format: :json) %>">
+  <div class="filters">
+    <label class="select-label">Show branch of
+      <select data-tree-target="root" data-action="change->tree#render">
+        <option value="">Whole family</option>
+      </select>
+    </label>
+    <button type="button" class="btn" data-action="click->tree#expandAll">Expand all</button>
+    <button type="button" class="btn btn-ghost" data-action="click->tree#collapseAll">Collapse all</button>
+  </div>
+  <div class="tree" data-tree-target="canvas"></div>
+</div>
